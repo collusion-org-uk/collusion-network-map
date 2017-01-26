@@ -45,8 +45,9 @@ eqfeed_callback({
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.202179, 
-          0.128176
+          0.128176,
+		  52.202179
+          
         ]
       },
       "id": "us10007vhf"
