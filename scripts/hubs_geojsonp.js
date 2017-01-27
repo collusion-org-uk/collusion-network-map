@@ -48,7 +48,7 @@ eqfeed_callback({
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -0.2405299
+           -0.2405299,
 			52.56949849999999
         ]
       },
