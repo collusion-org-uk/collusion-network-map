@@ -66,10 +66,10 @@ eqfeed_callback({
 		{
       "type": "Feature",
       "properties": {
-        "name": "Rich",
-        "about": "tech guy",
+        "name": "Kevin",
+        "about": "maker",
         "base": "Cambridge",
-		"colluding in": "Wisbech, King's Lynn",
+		"colluding in": "Bury St Edmunds, King's Lynn",
       },
       "geometry": {
         "type": "Point",
