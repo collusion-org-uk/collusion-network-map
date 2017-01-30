@@ -30,14 +30,14 @@ eqfeed_callback({
 "properties": {
 "name": "Rich",
 "about": "tech guy",
-"base": "Cambridge",
+"base": "Cambridge, UK",
 "colluding in": "Wisbech, King's Lynn",
 },
 "geometry": {
 "type": "Point",
 "coordinates": [
--71.10973349999999,
-42.3736158
+0.121817,
+52.205337
 ]
 }
 } 
@@ -46,22 +46,22 @@ eqfeed_callback({
 "properties": {
 "name": "Jane",
 "about": "Artist",
-"base": "Ely",
+"base": "Ely, UK",
 "colluding in": "Cambridge",
 },
 "geometry": {
 "type": "Point",
 "coordinates": [
--91.8670873,
-47.9032372
+0.262363,
+52.399539
 ]
 }
 } 
 ],
 "bbox": [
--91.8670873,
-42.3736158,
 -0.0763979,
-52.3325252
+52.205337,
+0.262363,
+52.399539
 ]
 });
