@@ -25,7 +25,7 @@ eqfeed_callback({
 ]
 }
 } 
-,,{
+,{
 "type": "Feature",
 "properties": {
 "name": "Rich",
@@ -41,7 +41,7 @@ eqfeed_callback({
 ]
 }
 } 
-,,{
+,{
 "type": "Feature",
 "properties": {
 "name": "Jane",
@@ -59,9 +59,9 @@ eqfeed_callback({
 } 
 ],
 "bbox": [
-undefined,
+-91.8670873,
+42.3736158,
 -0.0763979,
-undefined,
-47.9032372
+52.3325252
 ]
 });
